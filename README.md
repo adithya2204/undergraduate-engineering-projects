@@ -32,15 +32,7 @@ A design thinking project aimed at enhancing the safety of individuals with memo
 
 ## Repository Structure
 
-- **/dry-mop-cleaner.pdf** – Detailed report on the Dry Mop Cleaner project
-- **/trackcare.pdf** – Detailed report on the TrackCare project
+- **/manufacturing/dry-mop-cleaner.pdf** – Detailed report on the Dry Mop Cleaner project
+- **/design_thinking/trackcare** – Detailed report on the TrackCare project
 
 ---
-
-## Acknowledgments
-
-Developed by undergraduate teams at Amrita School of Engineering, Amritapuri Campus, as part of the B.Tech. Automation and Robotics Engineering program.
-
-## License
-
-Specify your preferred license here (e.g., MIT, GPL, etc.).
