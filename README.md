@@ -38,6 +38,8 @@ Group project for *Mechanics of Materials* (2023–24 odd semester). The report 
 | 3 | Deflection of a wrench under a mechanical load |
 | 4 | Principal stresses for pure shear using Mohr's circle |
 
+![ANSYS results: rail thermal expansion, rim under load, wrench deformation](images/fea-results.png)
+
 `work bench files/` contains the ANSYS Workbench project files (`.wbpj`). The `_files` result folders that Workbench needs to reopen them are not included, so the report is the reference for the results.
 
 ## C project
@@ -59,13 +61,19 @@ gcc "C project/project.c" -o journey && ./journey
 
 A wearable GPS tracking and alert concept for people with memory loss (for example amnesia), so that caregivers can find them quickly. This was a team project for *Design Thinking A*, submitted in January 2025.
 
+![TrackCare circuit layout and working prototype](images/trackcare-prototype.png)
+
+The prototype combines a Neo-6M GPS module, a SIM800L GSM module for alerts and an MPU-6050 motion sensor for fall detection, driven by an Arduino Nano on a portable battery.
+
 - [`Dsn_tkn_fin_report.pdf`](design%20thinking%20project/Dsn_tkn_fin_report.pdf): the full report
 - [`design thingking.pdf`](design%20thinking%20project/design%20thingking.pdf): one-page summary
 - [`TRACKCARE.pptx`](design%20thinking%20project/TRACKCARE.pptx): presentation (11 slides)
 
 ## Manufacturing: Dry Mop Cleaner
 
-A team build project for the second-semester *Manufacturing Laboratory*. The report is [`manufacturing project.pdf`](manufacturing%20project/manufacturing%20project.pdf).
+A team build project for the second-semester *Manufacturing Laboratory*: a triangular steel base on trolley wheels, with a mop turned by a 12 V DC motor, so the mop spins while you push the cleaner along by its handle. The report is [`manufacturing project.pdf`](manufacturing%20project/manufacturing%20project.pdf).
+
+![Dry mop cleaner: concept sketch and finished build](images/dry-mop-cleaner.png)
 
 ---
 
